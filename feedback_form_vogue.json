@@ -1,0 +1,56 @@
+{
+    "canon":{"model":"reflex","type":{"fullframe":4,"apsc":1},
+    "id":["7d","5d","5dm2","5dm3","1d"],
+    "feedback":{"fullframe":22200,"apsc":32000}}
+} 
+{
+    "nikon":
+    {"model":"reflex","type":{"fullframe":4,"apsc":1},
+    "id":["d3200","d4500","d80","d7600","d5"],
+    "feedback":{"fullframe":44000,"apsc":54000}}
+}
+{
+    "hasselblad":
+    {"model":"reflex","type":{"fullframe":1,"apsc":null},
+    "id":"907x",
+    "feedback":{"fullframe":200,"apsc":null}}
+} 
+{
+    "polaroid":
+    {"model":"reflex","type":{"fullframe":null,"apsc":null,"instant":5},
+    "feedback":{"fullframe":null,"apsc":null,"instant":34000}}
+} 
+{
+    "sony":,
+        {"model":"reflex","type":{"fullframe":null,"apsc":2},
+    "id":["a6000","a6400"],
+    "feedback":{"fullframe":null,"apsc":12000}}
+} 
+{
+    "canon":{"model":"mirrorless","type":{"fullframe":3,"apsc":null},
+    "id":["R3","R","R5"],
+    "feedback":{"fullframe":130000,"apsc":null}}
+} 
+{
+    "nikon":
+    {"model":"mirrorless","type":{"fullframe":2,"apsc":null},
+    "id":["z50","z30"],
+    "feedback":{"fullframe":14000,"apsc":null}}
+}
+{
+    "hasselblad":
+    {"model":"mirrorless","type":{"fullframe":2,"apsc":null},
+    "id":["x1D","x2D"],
+    "feedback":{"fullframe":200,"apsc":null}}
+} 
+{
+    "polaroid":
+    {"model":"mirrorless","id":null,
+        "feedback":null} 
+} 
+{
+    "sony":,
+        {"model":"mirrorless","type":{"fullframe":3,"apsc":null},
+    "id":["a7II","a7III","a7IV"],
+    "feedback":{"fullframe":145000,"apsc":null}}
+} 

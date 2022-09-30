@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='ISO-8859-1' standalone='yes'?>
+<sony_inventary_sept><!--invetario mese di settembre e.commerce-->
+  <hi_fi>
+    <home>20000pz</home>
+    <car>40000pz</car>
+  </hi_fi>
+  <monitor>
+    <ips>50000pz</ips>
+    <fhd>12000pz</fhd>
+  </monitor>
+  <tv>
+    <smart>34000pz</smart>
+    <smart_oled>250000pz</smart_oled>
+  </tv>
+  <stereo>
+    <mixer>30000pz</mixer>
+    <car>40000pz</car>
+  </stereo>
+  <nav> <!--Nav abbrevia Navigatori, a loro volta in tecnologia open o integrata-->
+    <open>30000pz</open>
+    <int>60000pz</int>
+  </nav>
+  <photo><!--inserite solamente la Fotocamere più acquistate-->
+    <mirrorless> 
+     <model id="A7III">
+    450000pz
+    </model>
+    </mirrorless>
+    <reflex>
+     <model id="A58">
+     320000pz
+     </model>
+     </reflex>
+    <apsc>
+     <model id="dsc">
+     112000pz
+     </model>
+     </apsc>
+  </photo>
+  <m_records>
+   <salmo id="1984">
+   13000pz
+   </salmo>
+   <ed_sheeran id="equals">
+   132000pz
+   </ed_sheeran>
+  </m_records>
+ <headphone> <!--bt abbrevia Bluetooth mentre j abbrevia Jack-->
+  <bt id="wh1000">
+  32000pz
+  </bt>
+  <j id="whch">
+  22000pz
+  </j>
+ </headphone>
+ <drone_airpeak>
+  <new id="s1">
+  20000pz
+  </new>
+  <old id="s">
+  30pz
+  </old>
+</drone_airpeak>
+ <air> <!--condizionatori separati tra portatitili (prt) non portatili (nprt)-->
+  <prt>50000pz</prt>
+  <nprt>30000pz</nprt>
+ </air>
+</sony_inventary_sept>
